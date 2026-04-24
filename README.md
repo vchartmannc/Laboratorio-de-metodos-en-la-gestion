@@ -1,10 +1,10 @@
-# ======================================================================================
 # REPOSITORIO DE ACTIVIDADES - LABORATORIO DE MÉTODOS CUANTITATIVOS APLICADOS A LA GESTIÓN
-# ======================================================================================
-"""
+
 Institución: Universidad de Buenos Aires (UBA)
-Carrera: Tecnicatura Universitaria en Administración y Gestión Pública
-Alumno: [Tu Nombre Aquí]
+
+Carrera: Tecnicatura universitaria en gestión y análisis de datos en organizaciones
+
+Alumno: Hartmann, Victoria Carolina
 
 DESCRIPCIÓN DEL REPOSITORIO:
 Este entorno de desarrollo ha sido concebido como una bitácora digital sistemática 
@@ -19,4 +19,4 @@ Este repositorio se actualizará de forma incremental, sumando progresivamente:
 
 El presente material constituye la evidencia de aprendizaje y servirá como base de 
 consulta técnica para las instancias de exámenes parciales e integradores.
-"""
+
