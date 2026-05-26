@@ -7,16 +7,23 @@ Carrera: Tecnicatura universitaria en gestión y análisis de datos en organizac
 Alumno: Hartmann, Victoria Carolina
 
 DESCRIPCIÓN DEL REPOSITORIO:
-Este entorno de desarrollo ha sido concebido como una bitácora digital sistemática 
-para la asignatura. El objetivo principal es centralizar la resolución de las 
-actividades propuestas, integrando herramientas de Ciencia de Datos (Pandas, Seaborn) 
-y Optimización Matemática (PuLP). 
+Este entorno de desarrollo ha sido diseñado como una bitácora digital académica y técnica para la asignatura, con el propósito de centralizar, documentar y desarrollar las actividades prácticas e integradoras de la cursada. El repositorio reúne ejercicios, análisis y proyectos vinculados a Ciencia de Datos, análisis estadístico y optimización matemática, aplicados a problemáticas organizacionales reales.
 
-Este repositorio se actualizará de forma incremental, sumando progresivamente:
-1. Laboratorios de análisis de bases de datos (Ej: Datasets de YPF, Ventas).
-2. Modelos de programación lineal para la toma de decisiones.
-3. Scripts de automatización para la obtención de métricas de gestión.
+A lo largo de la materia se incorporarán de manera progresiva distintos trabajos individuales y grupales, permitiendo evidenciar el proceso de aprendizaje, la evolución técnica y la aplicación de herramientas orientadas a la toma de decisiones basada en datos.
 
-El presente material constituye la evidencia de aprendizaje y servirá como base de 
-consulta técnica para las instancias de exámenes parciales e integradores.
+Dentro del repositorio se integrarán herramientas y librerías utilizadas en el ámbito profesional del análisis de datos, entre ellas:
 
+Pandas para manipulación y procesamiento de datos.
+Seaborn y Matplotlib para visualización estadística.
+PuLP para modelado y resolución de problemas de programación lineal.
+Scripts de automatización y análisis aplicados a métricas de gestión.
+
+El contenido incluirá:
+
+Laboratorios de análisis de bases de datos (por ejemplo: datasets de ventas, consumo energético y datos empresariales).
+Procesos de limpieza y transformación de datos, incluyendo tratamiento de valores faltantes y eliminación de duplicados.
+Modelos matemáticos de optimización para la resolución de problemas organizacionales.
+Desarrollo de indicadores y reportes orientados al análisis de gestión.
+Trabajos prácticos integradores de carácter grupal, enfocados en la aplicación conjunta de técnicas de análisis, visualización y modelado de datos.
+
+Este repositorio funcionará además como material de consulta técnica y académica para la preparación de exámenes parciales, trabajos integradores y futuras prácticas profesionales vinculadas al análisis y gestión de datos.
